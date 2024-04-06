@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "736ddf441995a0d7",
+        "id": "3a2f23df01cfc3a5",
         "type": "tabs",
         "children": [
           {
-            "id": "b1790e142420cda2",
+            "id": "b5a6c394350755fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1차 MVP/개인 서버 구축하기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1차 MVP/개인 서버 구축하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1차 MVP/개인 서버 구축하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1차 MVP/개인 서버 구축하기.md"
+              }
             }
           }
         ]
@@ -138,13 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1790e142420cda2",
+  "active": "b5a6c394350755fc",
   "lastOpenFiles": [
+    "Pasted image 20240407034027.png",
+    "1차 MVP/백엔드 1차 MVP 배포.md",
+    "1차 MVP/프론트엔드 1차 MVP 배포.md",
+    "imgaes/Pasted image 20240407010315.png",
+    "imgaes/Pasted image 20240407015241.png",
+    "imgaes/Pasted image 20240407032202.png",
+    "imgaes/Pasted image 20240407015136.png",
+    "Pasted image 20240407015144.png",
+    "Pasted image 20240407015219.png",
+    "1차 MVP/개인 서버 구축하기.md",
+    "argoCD와 Jenkins 차이.md",
+    "1차 MVP/1차 MVP.md",
+    "imgaes/Pasted image 20240406203300.png",
+    "imgaes/Pasted image 20240406203411.png",
+    "imgaes/Pasted image 20240406202635.png",
+    "imgaes/Pasted image 20240406204041.png",
+    "imgaes",
     "소개.md",
     "Redis Stack 그리고 Redis OM.md",
-    "argoCD와 Jenkins 차이.md",
+    "1차 MVP",
     "메시지 브로커 선택, Redis stream, Redis pubsub, Kafka, Rabbit MQ.md",
-    "개인 서버 구축하기.md",
+    "1차MVP/목표.md",
+    "개인서버구축.md",
+    "1차MVP",
     "Untitled.canvas",
     "메시지 브로커 선택, Redis stream, Redis pubsub, Kafka, Rabbit MQ/sub, Kafka, Rabbit MQ.md",
     "ISTIO 란?.md",
